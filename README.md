@@ -22,6 +22,6 @@ The tool is designed to do the following:
     * Earthquakes displayed (part 1)
     * Tectonic plates displayed (part 2)
 
-[Click Here] to access the interactive map - part 1. 
+[Click Here](https://grezza-78.github.io/leaflet-challenge/) to access the interactive USGS Earthquake tool
 
-[Click Here] to access the interactive map - part 2. 
+
