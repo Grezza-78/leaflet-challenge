@@ -71,7 +71,7 @@ let platesData = "https://raw.githubusercontent.com/fraxen/tectonicplates/master
  // Perform a GET request to the query URL and add it to the map.
 let plateLines = d3.json(platesData).then(function(plates) {
   L.geoJSON(plates, {
-    color: "yellow",
+    color: "red",
     weight: 2
     }).addTo(myMap);
   });
